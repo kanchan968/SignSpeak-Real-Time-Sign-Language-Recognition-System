@@ -3,9 +3,10 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Google-green)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-orange?logo=tensorflow)
 ![Vite](https://img.shields.io/badge/Vite-Frontend-purple?logo=vite)
-![License](https://img.shields.io/badge/License-MIT-yellow)git status
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Ever wished your browser could understand a 👍 without you clicking anything?
+
 **SignSpeak** is a real-time sign language recognition web app that watches your hand through your webcam, recognizes simple gestures, converts them into text, and even says them out loud.
 
 No servers.
